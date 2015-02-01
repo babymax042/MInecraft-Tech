@@ -1,1 +1,1 @@
-# MInecraft-Tech
+# Minecraft-Tech
